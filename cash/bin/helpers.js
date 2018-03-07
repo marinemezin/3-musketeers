@@ -8,6 +8,7 @@ const config = new Conf();
 
 updateNotifier({pkg}).notify();
 
+//Save the new default values entered for the specified currency
 const saveCurrencies = argv => {
   config.set('defaultFrom', argv[1] || config.get('defaultFrom', 'USD'));
   config.set(
@@ -20,11 +21,13 @@ const saveCurrencies = argv => {
   process.exit(1);
 };
 
+//Display the version of the application
 const version = () => {
   console.log(pkg.version);
   process.exit(1);
 };
 
+//Display information that can help the user
 const help = () => {
   console.log(`
 Usage:
@@ -57,28 +60,29 @@ Examples:
   process.exit(1);
 };
 
+//If the user ask to get the version, need help or want to save default currencies he will go into this function to process what he wants
 const helpers = argv => {
-  // Version
-  if (argv.indexOf('--version') !== - 1 || argv.indexOf('-v') !== - 1) {
-    version();
-  }
+    // Version
+    //Return the application's version
+    if (argv.indexOf('--version') !== - 1 || argv.indexOf('-v') !== - 1) {
+        version();
+    }
 
-  // Help
-  if (
-    argv.indexOf('--help') !== - 1
-    || argv.indexOf('-h') !== - 1
-    || ! argv.length
-  ) {
-    help();
-  }
+    // Help
+    //Display information of what to do or what you can do
+    if (argv.indexOf('--help') !== - 1
+        || argv.indexOf('-h') !== - 1
+        || ! argv.length) {
+        help();
+    }
 
-  if (
-    argv.indexOf('--save') !== - 1
-    || argv.indexOf('-s') !== - 1
-    || ! argv.length
-  ) {
-    saveCurrencies(argv);
-  }
+    // Save
+    // Save into config.json the default currencies entered
+    if (argv.indexOf('--save') !== - 1
+        || argv.indexOf('-s') !== - 1
+        || ! argv.length) {
+        saveCurrencies(argv);
+    }
 };
 
 module.exports = helpers;
