@@ -15,6 +15,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+You want to convert your money into another currency ? This is the code for you.
 
 ## How to install dependencies
 * Open a new terminal
