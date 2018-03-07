@@ -59,7 +59,6 @@ You will get a conversion of your amount in the currencies your asked for.<br/><
 ```sh
 ❯ node index.js --help
 ```
-<br/>
 * Save default currencies
 CURRENCY 1 is the starting currency <br/>
 CURRENCY2 and 3 are the final currencies
