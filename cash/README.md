@@ -1,4 +1,4 @@
-# Cash
+﻿# Cash
 
 > Description
 
@@ -7,16 +7,28 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction](#introduction)
-- [Objective - Workshop in 1 sentence](#objective---workshop-in-1-sentence)
-- [Just tell me what to do](#just-tell-me-what-to-do)
+- [How to install dependencies](#how-to-install-dependencies)
+- [What this program does](#what-this-program-does)
+- [How to execute it](#how-to-execute-it)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### Introduction
+## Introduction
 
-### Objective - Workshop in 1 sentence
+## How to install dependencies
+* Open a new terminal
+* Go into your project folder cash
+```sh
+❯ cd YOUR_FOLDER_AFTER_CLONING_ON_YOUR_COMPUTER\3-musketeers\cash
+```
+* Type and enter
+```sh
+❯ npm install
+```
 
-### Just tell me what to do
+## What this program does
 
-### Licence
+## How to execute it
+
+## Licence
