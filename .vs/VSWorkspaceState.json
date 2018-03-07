@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bitcoin",
+    "\\bitcoin\\lib",
+    "\\bitcoin\\__tests__",
+    "\\cash\\bin",
+    "\\cash\\lib"
+  ],
+  "SelectedNode": "\\bitcoin\\__tests__\\convert.js",
+  "PreviewInSolutionExplorer": false
+}
