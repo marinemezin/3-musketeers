@@ -7,8 +7,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction](#introduction)
-- [How to install dependencies](#how-to-install-dependencies)
 - [What this program does](#what-this-program-does)
+- [How to install dependencies](#how-to-install-dependencies)
 - [How to execute it](#how-to-execute-it)
 - [Licence](#licence)
 
@@ -16,6 +16,10 @@
 
 ## Introduction
 You want to convert your money into another currency ? This is the code for you.
+
+
+## What this program does
+
 
 ## How to install dependencies
 * Open a new terminal
@@ -28,8 +32,8 @@ You want to convert your money into another currency ? This is the code for you.
 ❯ npm install
 ```
 
-## What this program does
 
 ## How to execute it
+
 
 ## Licence
