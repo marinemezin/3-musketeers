@@ -31,10 +31,7 @@ The library [bitcoin](./bitcoin) that we need to
 * write Unit Tests (with Jest as testing framework)
 
 ## Just tell me what to do
-Hello
-World
-It's me
-Test
+
 * Fork the project via `github`
 * Clone your forked repository project `https://github.com/YOUR_USERNAME/3-musketeers`
 

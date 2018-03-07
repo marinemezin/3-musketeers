@@ -19,7 +19,9 @@ You want to convert your money into another currency ? This is the code for you.
 
 
 ## What this program does
-
+Hello
+Worls
+It's me
 
 ## How to install dependencies
 * Open a new terminal
