@@ -3,9 +3,7 @@
     "",
     "\\bitcoin",
     "\\bitcoin\\lib",
-    "\\bitcoin\\__tests__",
-    "\\cash\\bin",
-    "\\cash\\lib"
+    "\\bitcoin\\__tests__"
   ],
   "SelectedNode": "\\bitcoin\\__tests__\\convert.js",
   "PreviewInSolutionExplorer": false

@@ -105,6 +105,6 @@ test('should allow untest aliases', () => {
     //convert(4.6, 'Satoshi', 'sat');
     //convert(4.6, 'μBTC', 'btest');
     //throw new Error('test not yet defined... write your test here');
-    expect(function () { convert(4.6, 'μBTC', 'btest') }).toThrow();
+    expect(function () { convert(4.6, 'μBTC', 'btest') }).toBe('number');
     expect(typeof convert(4.6, 'Satoshi', 'sat')).toBe('number');
 });
