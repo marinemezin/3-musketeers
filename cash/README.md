@@ -69,37 +69,37 @@ The next time you will ask for a conversion of an amount in your CURRENCY1 and y
 
 ## What currency can you use ?
 
-| Complete name      | Shortcut |
-|--------------------|----------|
-|"Australian Dollar" |"AUD"     |
-|"Russian Rouble"    |"RUB"     |
-|"Euro"              |"EUR"     |
-|"Bulgarian Lev"     |"BGN"     |
-|"Real Brazilian"    |"BRL"     |
-|"Canadian Dollar"   |"CAD"     |
-|"Swiss Franc"       |"CHF"     |
-|"Chinese Yuan"      |"CNY"     |
-|"Czech Koruna"      |"CZK"     |
-|"Danish Krone"      |"DKK"     |
-|"Pound Sterling"    |"GBP"     |
-|"Hong Kong Dollar"  |"HKD"     |
-|"Croatian Kuna"     |"HRK"     |
-|"Hungarian Forint"  |"HUF"     |
-|"Indonesian Rupiah" |"IDR"     |
-|"Israeli Shekel"    |"ILS"     |
-|"Indian Rupee"      |"INR"     |
-|"Japanese Yen"      |"JPY"     |
-|"South Korean Won"  |"KRW"     |
-|"Mexican Peso"      |"MXN"     |
-|"Malaysian Ringgit" |"MYR"     |
-|"Norwegian Krone"   |"NOK"     |
-|"Philippine Peso"   |"PHP"     |
-|"Polish Zloty"      |"PLN"     |
-|"Romanian New Leu"  |"RON"     |
-|"Swedish Krona"     |"SEK"     |
-|"Singapore Dollar"  |"SGD"     |
-|"Thai Baht"         |"THB"     |
-|"Turkish Lira"      |"TRY"     |
-|"US Dollar"         |"USD"     |
-|"South African Rand"|"ZAR"     |
-|"New Zealand Dollar"|"NZD"     |
+| Complete name      | Shortcut|
+|--------------------|---------|
+|"Australian Dollar" |"AUD"    |
+|"Russian Rouble"    |"RUB"    |
+|"Euro"              |"EUR"    |
+|"Bulgarian Lev"     |"BGN"    |
+|"Real Brazilian"    |"BRL"    |
+|"Canadian Dollar"   |"CAD"    |
+|"Swiss Franc"       |"CHF"    |
+|"Chinese Yuan"      |"CNY"    |
+|"Czech Koruna"      |"CZK"    |
+|"Danish Krone"      |"DKK"    |
+|"Pound Sterling"    |"GBP"    |
+|"Hong Kong Dollar"  |"HKD"    |
+|"Croatian Kuna"     |"HRK"    |
+|"Hungarian Forint"  |"HUF"    |
+|"Indonesian Rupiah" |"IDR"    |
+|"Israeli Shekel"    |"ILS"    |
+|"Indian Rupee"      |"INR"    |
+|"Japanese Yen"      |"JPY"    |
+|"South Korean Won"  |"KRW"    |
+|"Mexican Peso"      |"MXN"    |
+|"Malaysian Ringgit" |"MYR"    |
+|"Norwegian Krone"   |"NOK"    |
+|"Philippine Peso"   |"PHP"    |
+|"Polish Zloty"      |"PLN"    |
+|"Romanian New Leu"  |"RON"    |
+|"Swedish Krona"     |"SEK"    |
+|"Singapore Dollar"  |"SGD"    |
+|"Thai Baht"         |"THB"    |
+|"Turkish Lira"      |"TRY"    |
+|"US Dollar"         |"USD"    |
+|"South African Rand"|"ZAR"    |
+|"New Zealand Dollar"|"NZD"    |
