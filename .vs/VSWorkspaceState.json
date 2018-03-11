@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bitcoin",
     "\\bitcoin\\lib",
-    "\\bitcoin\\__tests__"
+    "\\bitcoin\\__tests__",
+    "\\cash"
   ],
-  "SelectedNode": "\\bitcoin\\__tests__\\convert.js",
+  "SelectedNode": "\\cash\\README.md",
   "PreviewInSolutionExplorer": false
 }
